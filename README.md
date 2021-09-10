@@ -10,7 +10,7 @@ Learning Neural Network. The long-term goal of this project is to collect all in
 data possible for sports players so that a more direct analysis of the impact of 
 injuries can be completed.
 
-Among all applicants, this project won 1st place.
+Among all applicants, this project won 1st place for its analysis and potential impact.
 
 <center>
 
@@ -36,9 +36,8 @@ Among all applicants, this project won 1st place.
 
 The score most valued for our use case was the sensitivity, so we label the best
 "classical" machine learning model and best neural net model with bold text. All 
-classical models were trained on the full dataset (15,000 datapoints) using 
-stratified sampling, while all Neural Networks were completed on a curated sample 
-of the dataset (7,000 datapoints) to deal with class imbalance issues.
+models were trained on a dataset of approximately 8,000 class 0 labelings and
+3,000 class 1 labelings for purposes of direct comparison.
 
 **Final Presentation on Google Slides:**
 
