@@ -5,13 +5,12 @@ an online teaching and research organization which provides classes and competit
 for students to engage in.
 
 The goal of this project is to create a computer program that can classify injury
-reports from twitter data in Baseball. The best model found during the 8-week course
-and competition was a pre-trained RoBERTa Neural Network. The long-term goal of this
-project is to collect all injury data possible for sports players so that a
-more direct analysis of the impact of injuries can be completed.
+reports from twitter data in Baseball. The best model found currently is an XLNet Deep
+Learning Neural Network. The long-term goal of this project is to collect all injury 
+data possible for sports players so that a more direct analysis of the impact of 
+injuries can be completed.
 
-Among all applicants, this project won 1st place for its direct impact/inspiration
-on industry and soundness of research.
+Among all applicants, this project won 1st place.
 
 <center>
 
